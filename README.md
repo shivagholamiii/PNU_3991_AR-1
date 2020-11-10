@@ -19,7 +19,6 @@
 
 - [SOP](http://fatemehghasemiii.github.io/sop/)
 - [JavaScript certificate](https://www.sololearn.com/Certificate/1024-11631235/pdf/)
-- [patchwork](https://fatemehghasemiii.github.io/patchwork/)
 ------------------
 ## Winter Semester Courses 1399/2020
 
