@@ -20,7 +20,7 @@
 - [SOP](http://fatemehghasemiii.github.io/sop/)
 - [JavaScript certificate](https://www.sololearn.com/Certificate/1024-11631235/pdf/)
 - [jlord patchwork](https://github.com/fatemehghasemiii/PNU_3991_AR/blob/main/jlord.PNG)
-- [Written submission](
+- [Written submission](https://github.com/fatemehghasemiii/Written-submission)
 
 ------------------
 ## Winter Semester Courses 1399/2020
