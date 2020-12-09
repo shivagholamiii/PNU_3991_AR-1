@@ -18,7 +18,7 @@
 - [رزومه](http://fatemehghasemiii.github.io)
 
 - [SOP](http://fatemehghasemiii.github.io/sop/)
-- [JavaScript certificate](https://www.sololearn.com/Certificate/1024-11631235/pdf/)
+- [JavaScript certificate](https://github.com/fatemehghasemiii/PNU_3991_AR/blob/main/js.jpg)
 - [jlord patchwork](https://github.com/fatemehghasemiii/PNU_3991_AR/blob/main/jlord.PNG)
 - [Written submission](https://github.com/fatemehghasemiii/Written-submission)
 ------------------
