@@ -5,7 +5,7 @@
 - [152.pdf](https://github.com/fatemehghasemiii/PNU_3991_AR/blob/main/Research-And-Presentation-metods/p152.pdf)
 - [152.tex](https://github.com/fatemehghasemiii/PNU_3991_AR/blob/main/Research-And-Presentation-metods/p152.tex)
 - [153.pdf](https://github.com/fatemehghasemiii/PNU_3991_AR/blob/main/Research-And-Presentation-metods/p153.pdf)
-- [152.tex](https://github.com/fatemehghasemiii/PNU_3991_AR/blob/main/Research-And-Presentation-metods/p153.pdf)
+- [152.tex](https://github.com/fatemehghasemiii/PNU_3991_AR/blob/main/Research-And-Presentation-metods/p153.tex)
 
 
 ## Oral-presentation
