@@ -24,7 +24,7 @@
  
 1. [ RPM-52  مین کاظمی صابر ](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1322010_02/52_%D9%85%D8%AA%D9%8A%D9%86%20%D9%83%D8%A7%D8%B8%D9%85%D9%8A%20%D8%B5%D8%A7%D8%A8%D8%B1)
 
- 1. [ RPM-27 حسین زندیه](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1322010_01/27_%D8%AD%D8%B3%D9%8A%D9%86%20%D8%B2%D9%86%D8%AF%D9%8A%D9%87)searchAndPresentationMethods/1322010_01/32_%D9%85%D8%AD%D9%85%D8%AF%20%D8%B4%D8%A7%D9%87%D8%B3%D9%88%D9%86%D8%AF)
+ 1. [ RPM-27 حسین زندیه](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1322010_01/27_%D8%AD%D8%B3%D9%8A%D9%86%20%D8%B2%D9%86%D8%AF%D9%8A%D9%87)
 
  1. [ RPM-10  زهرا تمند](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1322010_01/10_%D8%B2%D9%87%D8%B1%D8%A7%20%D8%AA%D9%85%D9%86%D8%AF)
  
