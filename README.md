@@ -1,6 +1,6 @@
 # PNU_3991_AR
 ---------
-### شیوا غلامی
+# شیوا غلامی
  
 ---
 - [Github](https://github.com/shivagholamiii)
@@ -9,6 +9,25 @@
 - [SOP](https://shivagholamiii.github.io/sop/)
 - [JavaScript certificate](https://github.com/shivagholamiii/PNU_3991_AR-1/blob/main/js.jpg)
 - [jlord patchwork](https://github.com/shivagholamiii/PNU_3991_AR-1/blob/main/jlord.PNG)
+
+----------
+
+
+
+
+
+---------
+
+# فعاليت گروهی
+
+##معرفی دروس مشابه
+
+- [دروس مشابه 1](https://github.com/shivagholamiii/PNU_3991_AR-1/blob/main/Research-And-Presentation-metods/BS-BookOfSyllabi-Software.pdf)
+- [دروس مشابه 2](https://github.com/shivagholamiii/PNU_3991_AR-1/blob/main/Research-And-Presentation-metods/%D9%85%D9%87%D9%86%D8%AF%D8%B3%DB%8C%20%D9%81%D9%86%D8%A7%D9%88%D8%B1%DB%8C%20%D8%A7%D8%B7%D9%84%D8%A7%D8%B9%D8%A7%D8%AA.pdf)
+
+## جستجو منابع دیگر
+
+- [معرفي پایان نامه](https://github.com/shivagholamiii/PNU_3991_AR-1/blob/main/out(2).pdf)
 
 ------------------
 ## گروه ها
