@@ -6,7 +6,8 @@
 
 # شیوا غلامی
  
----
+---------
+
 - [Github](https://github.com/shivagholamiii)
 - [PNU_3991_AR](https://github.com/shivagholamiii/PNU_3991_AR-1)
 - [رزومه](https://shivagholamiii.github.io/)
@@ -15,6 +16,14 @@
 - [jlord patchwork](https://github.com/shivagholamiii/PNU_3991_AR-1/blob/main/jlord.PNG)
 
 ----------
+> ارزیابی ها
+
+##  بخش عمومی
+- [ارزیابی رزومه و انگیزه نامه](https://github.com/shivagholamiii/PNU_3991_AR-1/blob/main/XX_CV_CheckList_AR_3991.pdf)
+- [خلاصه ارزیابی بخش عمومی](https://github.com/shivagholamiii/PNU_3991_AR-1/blob/main/XX_GeneralSection_CheckList_AR_3991.pdf)
+
+## بخش دروس کارشناسی
+- [خلاصه ارزیابی درس_روش پژوهش وارائه](https://github.com/shivagholamiii/PNU_3991_AR-1/blob/main/Research-And-Presentation-metods/XX_ResearchAndPresentationMethods_CheckList_AR_3991.pdf)
 
 
 
@@ -24,7 +33,7 @@
 
 # فعاليت گروهی
 
-##معرفی دروس مشابه
+## معرفی دروس مشابه
 
 - [دروس مشابه 1](https://github.com/shivagholamiii/PNU_3991_AR-1/blob/main/Research-And-Presentation-metods/BS-BookOfSyllabi-Software.pdf)
 - [دروس مشابه 2](https://github.com/shivagholamiii/PNU_3991_AR-1/blob/main/Research-And-Presentation-metods/%D9%85%D9%87%D9%86%D8%AF%D8%B3%DB%8C%20%D9%81%D9%86%D8%A7%D9%88%D8%B1%DB%8C%20%D8%A7%D8%B7%D9%84%D8%A7%D8%B9%D8%A7%D8%AA.pdf)
